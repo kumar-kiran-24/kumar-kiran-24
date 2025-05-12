@@ -14,3 +14,14 @@
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, GitHub, VS Code, Docker, Postman
 - **Currently Learning:** Machine Learning, TypeScript, DevOps
+
+
+
+## 📫 Let's Connect
+
+- **LinkedIn:** [linkedin.com/in/kumar-kiran-24](www.linkedin.com/in/kirankumar-s-)
+- **Email:** your.email@example.com
+
+---
+
+⭐ *Thanks for visiting my GitHub! Feel free to check out my repositories and reach out if you'd like to collaborate.*
