@@ -19,7 +19,7 @@
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/kumar-kiran-24](www.linkedin.com/in/kirankumar-s-)
+
 - **Email:** kirankumars82485@gmail.com
 - 
 
