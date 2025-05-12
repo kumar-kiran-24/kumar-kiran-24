@@ -21,6 +21,7 @@
 
 
 - **Email:** kirankumars82485@gmail.com
+- **LinkedIn:** [linkedin.com/in/kumar-kiran-24](www.linkedin.com/in/kirankumar-s- )
 - 
 
 ---
