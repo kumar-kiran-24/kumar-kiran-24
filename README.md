@@ -1,6 +1,7 @@
 # 👋 Hi, I'm KiranKumar!
 
-🎓 Engineering Student | 💡 Generative AI Enthusiast | 🧠 Lifelong Learner
+🎓 Engineering Student | 💡 Generative AI Enthusiast | 🧠 Lifelong Learner  
+📍 India | 🕒 IST (UTC+5:30)
 
 ---
 
@@ -11,20 +12,21 @@
 
 ---
 
-## 📌 Featured Projects
-
-| Project                  | Tech Stack               | Description                |
-|--------------------------|--------------------------|----------------------------|
-| [AI Chatbot](https://github.com/kumar-kiran-24/chatbot) | OpenAI, Flask             | Custom GPT-3 chatbot       |
-| [Text-to-Image Generator](https://github.com/kumar-kiran-24/ai-art) | DALL·E, Streamlit        | Generate images from text  |
-| [Voice Cloner](#)        | PyTorch, Web UI          | Clone your voice           |
+## 🚀 2025 Learning Goals
+- ✅ Fine-tune LLMs with custom datasets
+- ✅ Contribute to open-source AI projects
+- 🟨 Build a production-ready AI SaaS tool
+- 🟨 Learn Reinforcement Learning
 
 ---
 
-## 📫 Let's Connect
-- 📧 Email: **kirankumars82485@gmail.com**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kirankumar-s-/)
-- 🌐 Portfolio: *(Coming soon)*
+## 📌 Featured Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| [AI Chatbot](https://github.com/kumar-kiran-24/chatbot) | OpenAI, Flask | Custom GPT-3 chatbot |
+| [Text-to-Image Generator](https://github.com/kumar-kiran-24/ai-art) | DALL·E, Streamlit | Generate images from text |
+| [Voice Cloner](#) | PyTorch, Web UI | Clone your voice |
 
 ---
 
@@ -32,6 +34,20 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,git,github,vscode,linux" />
 </p>
+
+### Badges
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
+![Location](https://img.shields.io/badge/India-🧠-red)
+![Timezone](https://img.shields.io/badge/IST-UTC%2B5:30-blue)
+
+---
+
+## 📫 Let's Connect
+- 📧 Email: **kirankumars82485@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kirankumar-s-/)
+- 🌐 Portfolio: *(Coming soon)*
 
 ---
 
@@ -47,4 +63,9 @@
 
 ---
 
-_“Code is poetry — I write in AI.”_
+## 📝 Latest Blog Posts
+*(Coming soon... Stay tuned!)*
+
+---
+
+## 🐍 Contribution Snake
