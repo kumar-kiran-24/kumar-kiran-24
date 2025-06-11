@@ -27,7 +27,7 @@
 - 
 ## 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,pytorch,tensorflow,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,git,github,vscode,linux" />
 </p>
 
 ---
