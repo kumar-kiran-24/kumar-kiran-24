@@ -37,6 +37,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kumar-kiran-24&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-kiran-24&layout=compact&theme=tokyonight" />
 </p>
+<p>[Profile views]<a href=(https://komarev.com/ghpvc/?username=kumar-kiran-24)></p>
+
 
 ---
 
