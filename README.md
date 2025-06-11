@@ -1,29 +1,27 @@
-﻿# Hi there 👋, I'm KIRANKUMAR
+# 👋 Hi, I'm KiranKumar!
 
-
- 🎓 I'm a Computer Science student passionate about building software solutions that solve real-world problems.  
-💡 I enjoy working on full-stack development, competitive programming, and exploring technologies like AI and DevOps.
-
-
-
-
-## 🔧 Technologies & Tools
-
-- **Languages:** C, C++, Python, Java, JavaScript
-- **Web:** HTML, CSS, React, Node.js, Express
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, GitHub, VS Code, Docker, Postman
-- **Currently Learning:** Machine Learning, TypeScript, DevOps
-
-
-
-## 📫 Let's Connect
-
-
-- **Email:** kirankumars82485@gmail.com
-
-- 
+🎓 Engineering Student | 💡 Generative AI Enthusiast | 🧠 Lifelong Learner
 
 ---
 
-⭐ *Thanks for visiting my GitHub! Feel free to check out my repositories and reach out if you'd like to collaborate.*
+## 🔭 Current Focus
+- 🔬 Building Generative AI Projects (LLMs, GANs, Diffusion)
+- 🤖 Learning Machine Learning with PyTorch and Hugging Face
+- 💬 Blogging about my journey
+
+---
+
+## 📌 Projects
+| Project | Tech | Description |
+|--------|------|-------------|
+| [AI Chatbot]() | OpenAI, Flask | Custom GPT-3 chatbot |
+| [Text-to-Image Generator]() | DALL·E, Streamlit | Prompt → Art |
+| [Voice Cloner]() | PyTorch, Web UI | Clone your voice |
+
+---
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/kirankumar-s-/)
+- [Portfolio]()
+
+_“Code is poetry — I write in AI.”_
