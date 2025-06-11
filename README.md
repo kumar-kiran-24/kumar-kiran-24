@@ -24,4 +24,26 @@
 - [LinkedIn](https://www.linkedin.com/in/kirankumar-s-/)
 - [Portfolio]()
 
+- 
+## 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,pytorch,tensorflow,git,github,vscode,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kumar-kiran-24&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-kiran-24&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ✨ Projects
+| Name | Tech | Description |
+|------|------|-------------|
+| [AI Chatbot](https://github.com/kumar-kiran-24/chatbot) | OpenAI, Flask | Custom GPT chatbot |
+| [Art Generator](https://github.com/kumar-kiran-24/ai-art) | Stable Diffusion, Streamlit | Text → Image |
+
 _“Code is poetry — I write in AI.”_
