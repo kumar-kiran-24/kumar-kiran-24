@@ -1,4 +1,5 @@
 # 👋 Hi, I'm KiranKumar!
+[![](https://visitcount.itsvg.in/api?id=kumar-kiran-24&icon=0&color=0)](https://visitcount.itsvg.in)
 
 🎓 Engineering Student | 💡 Generative AI Enthusiast | 🧠 Lifelong Learner  
 📍 India | 🕒 IST (UTC+5:30)
