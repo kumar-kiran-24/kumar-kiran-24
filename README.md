@@ -76,9 +76,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-kiran-24&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kumar-kiran-24&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+
 
 ---
 
