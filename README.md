@@ -1,4 +1,14 @@
 # 👋 Hi, I'm KiranKumar!
+***
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="270vh" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kumar-kiran-24&label=Profile%20views&color=0e75b6&style=flat" alt="kumar-kiran-24" />
+</p>
+
 
 ---
 
