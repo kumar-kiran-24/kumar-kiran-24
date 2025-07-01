@@ -1,4 +1,4 @@
-# 👋 Hi, I'm KiranKumar s!
+# 👋 Hi, I'm KiranKumar s
 ***
 
 <p align="center">
