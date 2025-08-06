@@ -31,11 +31,6 @@
 
 ---
 
-## 🚀 2025 Learning Goals
-- ✅ Fine-tune LLMs with custom datasets
-- ✅ Contribute to open-source AI projects
-- 🟨 Build a production-ready AI SaaS tool
-- 🟨 Learn Reinforcement Learning
 
 ---
 
@@ -75,6 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kumar-kiran-24&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-kiran-24&layout=compact&theme=tokyonight" />
 </p>
+
 
 
 
