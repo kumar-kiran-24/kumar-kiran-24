@@ -1,36 +1,33 @@
-# 👋 Hi, I'm KiranKumar s
-***
+# 👋 Hi, I'm KiranKumar S
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="400" />
-
-
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="400" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kumar-kiran-24&label=Profile%20views&color=0e75b6&style=flat" alt="kumar-kiran-24" />
+  <img src="https://komarev.com/ghpvc/?username=kumar-kiran-24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://visitcount.itsvg.in/api?id=kumar-kiran-24&icon=0&color=0" alt="Visitors" />
 </p>
-
 
 ---
 
-
-
-[![](https://visitcount.itsvg.in/api?id=kumar-kiran-24&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-🎓 Engineering Student | 💡 Generative AI Enthusiast |  
+🎓 **Engineering Student** | 💡 **Generative AI Enthusiast**  
 📍 India | 🕒 IST (UTC+5:30)
 
 ---
 
-## 🔭 Current Focus
-- Building Generative AI Projects (LLMs, GANs, Diffusion)
-- Learning Machine Learning with PyTorch and Hugging Face
-- Blogging about my journey
+## 🚀 About Me
+- 🧠 Passionate about **AI, Machine Learning, and Generative Models**
+- 📚 Currently learning **PyTorch** & **Hugging Face**
+- 🛠 Exploring **LLMs, GANs, and Diffusion Models**
+- ✍ Documenting my learning journey through blogs
 
 ---
 
+## 🔭 Current Focus
+- **Generative AI Projects** (Chatbots, Text-to-Image, Voice Cloning)
+- **Deep Learning** with PyTorch
+- **Experimenting with Hugging Face Models**
 
 ---
 
@@ -38,41 +35,37 @@
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| [AI Chatbot](https://github.com/kumar-kiran-24/chatbot) | OpenAI, Flask | Custom GPT-3 chatbot |
-| [Text-to-Image Generator](https://github.com/kumar-kiran-24/ai-art) | DALL·E, Streamlit | Generate images from text |
-| [Voice Cloner](#) | PyTorch, Web UI | Clone your voice |
+| [🤖 AI Chatbot](https://github.com/kumar-kiran-24/chatbot) | OpenAI, Flask | Custom GPT-3 chatbot |
+| [🎨 Text-to-Image Generator](https://github.com/kumar-kiran-24/ai-art) | DALL·E, Streamlit | Generate images from text prompts |
+| [🗣 Voice Cloner](#) | PyTorch, Web UI | Clone voices with deep learning |
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠 Tech Stack & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,git,github,vscode,linux" />
 </p>
 
 ### Badges
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
-![Location](https://img.shields.io/badge/India-🧠-red)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
+![India](https://img.shields.io/badge/Location-India-red)
 ![Timezone](https://img.shields.io/badge/IST-UTC%2B5:30-blue)
-
----
-
-## 📫 Let's Connect
-- 📧 Email: **kirankumars82485@gmail.com**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kirankumar-s-/)
-- 🌐 Portfolio: *(Coming soon)*
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumar-kiran-24&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-kiran-24&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kumar-kiran-24&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-kiran-24&layout=compact&theme=tokyonight" height="165" />
 </p>
 
+---
 
+## 📫 Connect with Me
+- 📧 Email: **kirankumars82485@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kirankumar-s-/)
+- 🌐 Portfolio: *(Coming soon)*
 
-
-
-
+---
