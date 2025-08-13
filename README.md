@@ -15,21 +15,6 @@
 
 ---
 
-## 🚀 About Me
-- 🧠 Passionate about **AI, Machine Learning, and Generative Models**
-- 📚 Currently learning **PyTorch** & **Hugging Face**
-- 🛠 Exploring **LLMs, GANs, and Diffusion Models**
-- ✍ Documenting my learning journey through blogs
-
----
-
-## 🔭 Current Focus
-- **Generative AI Projects** (Chatbots, Text-to-Image, Voice Cloning)
-- **Deep Learning** with PyTorch
-- **Experimenting with Hugging Face Models**
-
----
-
 ## 📌 Featured Projects
 
 | Project | Tech Stack | Description |
@@ -54,9 +39,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
-![India](https://img.shields.io/badge/Location-India-red)
-![Timezone](https://img.shields.io/badge/IST-UTC%2B5:30-blue)
-
 ---
 
 ## 📊 GitHub Stats
@@ -73,4 +55,5 @@
 - 🌐 Portfolio: *(Coming soon)*
 
 ---
+
 
