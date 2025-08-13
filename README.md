@@ -6,8 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kumar-kiran-24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://visitcount.itsvg.in/api?id=kumar-kiran-24&icon=0&color=0" alt="Visitors" />
-</p>
+
 
 ---
 
@@ -45,7 +44,12 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,git,github,vscode,linux" />
 </p>
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-kiran-24&" alt="kirankumar s" />
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+</p>
 ### Badges
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -69,3 +73,4 @@
 - 🌐 Portfolio: *(Coming soon)*
 
 ---
+
